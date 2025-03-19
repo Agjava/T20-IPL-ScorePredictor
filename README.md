@@ -1,7 +1,7 @@
 T20-IPL-ScorePredictor
 
 The primary goal of the T20-IPL-ScorePredictor is to predict the total runs a batting team will score in an IPL T20 match by analyzing the match state after the first 6 overs (the powerplay phase).
-The dataset, downloaded from cricsheet.org, contains ball-by-ball data for IPL matches, likely spanning multiple seasons  (2008-2017). The dataset includes features such as:
+The dataset, downloaded from cricsheet.org, contains ball-by-ball data for IPL matches, spanning multiple seasons  (2008-2017). The dataset includes features such as:
 
 Match metadata: Match ID, date, venue, batting team, bowling team.
 
